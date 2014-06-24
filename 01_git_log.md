@@ -102,7 +102,7 @@ Date:   Sun Apr 16 22:20:36 2005 +0000
     Le noyau Linux est versionné sous Git
     
     https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
-    Pour la 2.6.12-rc2 Linus Torvald passe le code du noyau sous Git.
+    Pour la 2.6.12-rc2 Linus passe le code du noyau sous Git.
 
 diff --git a/kernel b/kernel
 new file mode 100644
