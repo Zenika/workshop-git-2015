@@ -6,6 +6,7 @@
 
 ## Une brève histoire de Git
 
+La génèse de Git :
 ```shell
 $ git log --reverse --pretty=format:'%h %cd %an %n %s%n'
 
@@ -26,6 +27,7 @@ c6aac97 2005-04-16 22:20:36 +0000 Linus Torvalds
 
 ## 3e557c537ec302f0b6e4dd7d6fe73d677dd3267c
 
+3e557c5 :
 ```git-log
 $ git show 3e557c5
 commit 3e557c537ec302f0b6e4dd7d6fe73d677dd3267c
@@ -47,6 +49,7 @@ index 0000000..e69de29
 
 ## 86b037e9b2cb3a7283674a85e5f60407926e42a4
 
+86b037e :
 ```git-log
 $ git show 86b037e
 commit 86b037e9b2cb3a7283674a85e5f60407926e42a4
@@ -70,6 +73,7 @@ index 0000000..e69de29
 
 ## a13dfb93446c7fa270371d47fba944bb132b72ba
 
+a13dfb9 :
 ```git-log
 $ git show a13dfb9
 commit a13dfb93446c7fa270371d47fba944bb132b72ba
@@ -93,6 +97,7 @@ index e69de29..3b62dc1 100644
 
 ## c6aac977ad0ae2ee9be16cd222676f82bbfa81d5
 
+c6aac97 :
 ```git-log
 $ git show c6aac97
 commit c6aac977ad0ae2ee9be16cd222676f82bbfa81d5
