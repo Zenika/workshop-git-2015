@@ -2,5 +2,8 @@
   "00_agenda.md",
   "01_git_log.md",
   "02_git_plumbing.md",
-  "03_git_guts.md"
+  "03_git_guts.md",
+  "04_branches.md",
+  "05_merge.md",
+  "06_rebase.md"
 ]

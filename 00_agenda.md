@@ -8,6 +8,11 @@
 
 <!-- .slide: id="master-toc" class="toc" -->
 
-- [Git log](#/1)
-- [La plomberie de Git](#/2)
-- [Les entrailles de Git](#/3)
+- Comprendre Git
+ - [Git log](#/1)
+ - [La plomberie de Git](#/2)
+ - [Les entrailles de Git](#/3)
+- Les branches
+ - [Modèle de branche](#/4)
+ - [Merge](#/5)
+ - [Rebase](#/6)
