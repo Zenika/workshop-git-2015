@@ -16,3 +16,4 @@
  - [Modèle de branche](#/4)
  - [Merge](#/5)
  - [Rebase](#/6)
+- [Trucs et astuces](#/7)
