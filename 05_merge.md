@@ -23,7 +23,7 @@ Grâce au graphe orienté acyclique des commits, calculer un merge est très fac
 - Déterminer l'ancêtre commun entre la branche courante et la branche à merger : la base
 - Calculer le diff entre la base et la branche à merger
 - Appliquer le diff sur la branche courante
-- Commiter le résultat dans un commit ayant comme 1er parent la branche courante et comme 2ème parent la branche à merger
+- Commiter le résultat dans un commit ayant comme 1<sup>er</sup> parent la branche courante et comme 2<sup>e</sup> parent la branche à merger
 
 
 
