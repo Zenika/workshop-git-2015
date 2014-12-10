@@ -21,7 +21,6 @@
 
   function insertSlides(callback) {
     var req = new XMLHttpRequest();
-    req.responseType = 'json';
     req.onload = function (e) {
       var slideContainer = document.querySelector('.slides');
       req.response.forEach(function (path) {
@@ -34,6 +33,7 @@
       callback();
     };
     req.open('GET', 'slides.json');
+    req.responseType = 'json';
     req.send();
   }
 
