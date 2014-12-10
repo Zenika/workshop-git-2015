@@ -19,7 +19,7 @@ Conceptuellement, c'est simplement une branche du graphe acyclique orienté des 
 
 Les branches sont un moyen de faire des développements parallèles.
 
-Cela permet de ne pas avoir de développements intermédiaire sur la branche principale.
+Cela permet de ne pas avoir de développements intermédiaires sur la branche principale.
 
 Il est ainsi possible de livrer à tout moment ce qui est terminé.
 

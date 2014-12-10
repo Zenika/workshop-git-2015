@@ -20,7 +20,7 @@ Le moyen classique pour le faire est de merger les branches entre elles.
 
 Grâce au graphe orienté acyclique des commits, calculer un merge est très facile pour Git :
 
-- Déterminer l'ancètre commun entre la branche courante et la branche à merger : la base
+- Déterminer l'ancêtre commun entre la branche courante et la branche à merger : la base
 - Calculer le diff entre la base et la branche à merger
 - Appliquer le diff sur la branche courante
 - Commiter le résultat dans un commit ayant comme 1er parent la branche courante et comme 2ème parent la branche à merger
@@ -35,7 +35,7 @@ Il est évidemment possible que le diff ne s'applique pas sans conflit :
 - Modification d'un fichier d'un côté et suppression de l'autre
 - Création du même fichier des 2 côtés
 
-Il faut alors modifier les fichiers en conflit et les indéxer pour les marquer comme résolus puis commiter.
+Il faut alors modifier les fichiers en conflit et les indexer pour les marquer comme résolus puis commiter.
 
 
 

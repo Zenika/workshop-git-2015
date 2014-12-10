@@ -46,7 +46,7 @@ L'avantage ici est que la résolution des conflits se fait dans chaque nouveau c
 - plusieurs petits conflits sucessifs plutôt qu'un seul conflit de merge
 - "comme si" le commit était correct depuis le début
 
-Dans ce cas, il faut modifier les fichiers en conflit et les indéxer pour les marquer comme résolus puis continuer le rebase avec un `git rebase --continue`.
+Dans ce cas, il faut modifier les fichiers en conflit et les indexer pour les marquer comme résolus puis continuer le rebase avec un `git rebase --continue`.
 
 Il est aussi possible d'abandonner le rebase avec un `git rebase --abort` qui nous ramène à l'état avant le rebase.
 
