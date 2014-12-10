@@ -119,7 +119,7 @@ x+M-OM-^Cd^Q^USM-[M-^EM-^?M-S_0GM-\M-;#^?
 
 Donc un tree est stocké sous la forme :
 ```
-tree SPACE <size> NULL (<mode> SPACE <name> <binary_sha1>)+
+tree SPACE <size> NULL (<mode> SPACE <name> NULL <binary_sha1>)+
 ```
 
 
